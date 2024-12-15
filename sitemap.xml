@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset
+	xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"
+	xmlns:xhtml="https://www.w3.org/1999/xhtml"
+	xmlns:mobile="https://www.google.com/schemas/sitemap-mobile/1.0"
+>
+	<url>
+		<loc>https://kldabt.efiand.ru/</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/soderzhanie</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/skazka-o-korole-andree-i-koroleve-tane</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/skazka-2</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/skazka-3</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/skazka-4</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/skazka-o-byke</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/skazka-o-porosyonke</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/nesostoyavshayasya-svadba</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/semejnaya-ssora</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/vodka-i-eyo-posledstviya</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/kasha</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/v-orkestre</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/kozlodoev</loc>
+	</url>
+	<url>
+		<loc>https://kldabt.efiand.ru/v-shkole</loc>
+	</url>
+</urlset>
