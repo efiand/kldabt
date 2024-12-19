@@ -1,16 +1,24 @@
 <script lang="ts">
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
 	import '@/scss/index.scss';
 	import Hero from '@/components/Hero.svelte';
 	import Nav from '@/components/Nav.svelte';
 	import { projectName, titles } from '@/lib/constants';
 
 	let { children } = $props();
-	let title = $derived(titles[`${$page.route.id}`] || '');
+	let title = $derived(titles[`${page.route.id}`] || '');
 </script>
 
 <svelte:head>
 	<title>{[projectName, title].join('. ')}</title>
+
+	{#if page.route.id === '/'}
+		<meta name="yandex-verification" content="cb168677250fc238" />
+		<meta
+			name="google-site-verification"
+			content="zkOZPCQiB-QTp7eV1rCaEASRX4bEelb5Z1XqXfC5IX0"
+		/>
+	{/if}
 </svelte:head>
 
 {#if title}
@@ -21,7 +29,7 @@
 			{@render children()}
 		</section>
 
-		{#if $page.route.id !== '/soderzhanie'}
+		{#if page.route.id !== '/soderzhanie'}
 			<Nav />
 		{/if}
 	</main>

@@ -7,9 +7,14 @@ const config = {
 		runes: true
 	},
 	kit: {
-		adapter: adapter(),
+		adapter: adapter({
+			fallback: '404.html'
+		}),
 		alias: {
 			'@': 'src'
+		},
+		paths: {
+			base: ''
 		}
 	},
 	preprocess: vitePreprocess()
