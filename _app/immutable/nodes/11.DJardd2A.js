@@ -1,4 +1,4 @@
-import"../chunks/disclose-version.Bg9kRutz.js";import{n as t}from"../chunks/runtime.CPBXKBJz.js";import{a as e,t as r}from"../chunks/template.CtK1zXCh.js";var s=r(`<p>Жили-были король с королевой. Долгое время у них не было детей. Однажды уехал
+import"../chunks/disclose-version.Bg9kRutz.js";import{n as t}from"../chunks/runtime.DA59O3ca.js";import{a as e,t as r}from"../chunks/template.C1FOTr2D.js";var s=r(`<p>Жили-были король с королевой. Долгое время у них не было детей. Однажды уехал
 	король по делам, а к королеве пришёл колдун и сказал, что она родит дочь. Так
 	и случилось: когда через девять месяцев приехал король домой, королева родила
 	дочку. Страшную, как колдун. С горя назвали её Таней, думали, что пусть хоть
