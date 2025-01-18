@@ -1,4 +1,4 @@
-import"../chunks/disclose-version.Bg9kRutz.js";import{n as e}from"../chunks/runtime.DA59O3ca.js";import{a as s,t}from"../chunks/template.C1FOTr2D.js";var r=t(`<p>Жил да был дед Андрей один, без бабки. В дом не войти было! Ходил он по дому
+import"../chunks/disclose-version.Bg9kRutz.js";import{n as e}from"../chunks/runtime.DC5mZwgu.js";import{a as s,t}from"../chunks/template.D4kWnzM3.js";var r=t(`<p>Жил да был дед Андрей один, без бабки. В дом не войти было! Ходил он по дому
 	и так говорил про себя:</p> <p>— Я хрен старый, алкоголик заядлый, выпить водки я хочу! — и потом ложился
 	спать.</p> <p>Напротив него, неподалёку, жила-была бабка Таня. Такая хозяюшка! Прибиралась,
 	всё делала — хорошая была. Нравился ей дед Андрей, да и дед Андрей её часто

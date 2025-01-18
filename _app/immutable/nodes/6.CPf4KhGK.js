@@ -1,4 +1,4 @@
-import"../chunks/disclose-version.Bg9kRutz.js";import{n as t}from"../chunks/runtime.DA59O3ca.js";import{a as e,t as r}from"../chunks/template.C1FOTr2D.js";var s=r(`<p>Сварила бабка кашу. Поставила её на стол. Дед хотел было её съесть, а бабка —
+import"../chunks/disclose-version.Bg9kRutz.js";import{n as t}from"../chunks/runtime.DC5mZwgu.js";import{a as e,t as r}from"../chunks/template.D4kWnzM3.js";var s=r(`<p>Сварила бабка кашу. Поставила её на стол. Дед хотел было её съесть, а бабка —
 	трах! — деда ложкой по голове:</p> <p>— Ты куда вперёд батьки лезешь?!</p> <p>У деда шишка вылезла. Он сидит — а слюни ручьём текут. Бабка ему по зубам как
 	даст!</p> <p>— Ты что свои слюни мне в миску кидаешь!</p> <p>Разозлился дед на бабку — да как стукнет кулаком! Бабка встала — в огород.
 	В капусту. Сидит на капустине — и тут вдруг вылезает крыса полевая из-под
