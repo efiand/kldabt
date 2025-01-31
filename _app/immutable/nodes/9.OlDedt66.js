@@ -1,4 +1,4 @@
-import"../chunks/disclose-version.Bg9kRutz.js";import{n as t}from"../chunks/runtime.DC5mZwgu.js";import{a as e,t as r}from"../chunks/template.D4kWnzM3.js";var s=r(`<p>Жили-были дед Андрей и бабка Таня. Дед Андрей был «безъяичным»: смолоду
+import"../chunks/Bg9kRutz.js";import{n as t}from"../chunks/CnU13vv8.js";import{a as e,t as r}from"../chunks/DyHy4_-Q.js";var s=r(`<p>Жили-были дед Андрей и бабка Таня. Дед Андрей был «безъяичным»: смолоду
 	потерял где-то яйца свои.</p> <p class="separated">Как-то раз собрался дед на рыбалку, а наживки нет. Попросил у бабки Тани жопу
 	на время. Бабка согласилась:</p> <p>— Только смотри не потеряй!</p> <p>Пришёл на речку, закинул удочку — леска и порвалась, жопа-то большая! И унесло
 	жопу течением. Искал дед жопу, искал, но нигде не нашёл, пустым к бабке
