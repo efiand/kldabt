@@ -1,2 +1,8 @@
 User-agent: *
 Sitemap: https://kldabt.efiand.ru/sitemap.xml
+
+User-agent: Yandex
+Disallow: /amp
+
+User-agent: Googlebot
+Disallow: /turbo.rss
