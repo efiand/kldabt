@@ -5,7 +5,7 @@
 </script>
 
 <ol class="contents">
-	{#each CONTENTS as href}
+	{#each CONTENTS as href (href)}
 		<li>
 			<a href="{isAmp ? '/amp' : ''}{href}">
 				<span>{TITLES[href]}</span>
