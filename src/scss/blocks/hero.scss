@@ -16,4 +16,8 @@
 .hero__title {
 	min-height: 48px;
 	margin: 0;
+
+	[data-hidden] {
+		visibility: hidden;
+	}
 }

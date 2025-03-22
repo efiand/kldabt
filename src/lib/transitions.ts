@@ -17,6 +17,7 @@ function typewriter(node: Node, { speed = 1 } = {}) {
 		duration,
 		tick(t: number) {
 			const i = Math.trunc(text.length * t);
+			delete (node as HTMLElement).dataset.hidden;
 			node.textContent = text.slice(0, i);
 		}
 	};

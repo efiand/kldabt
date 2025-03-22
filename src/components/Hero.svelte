@@ -16,7 +16,7 @@
 <section class="hero">
 	{#if import.meta.env.SSR || showTitle}
 		<h1 class="hero__title">
-			<span in:typewriter>{PROJECT_NAME}</span>
+			<span in:typewriter data-hidden>{PROJECT_NAME}</span>
 		</h1>
 	{/if}
 	<Nav {isAmp} />
